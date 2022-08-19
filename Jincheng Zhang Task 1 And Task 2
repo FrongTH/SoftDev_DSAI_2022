@@ -1,0 +1,45 @@
+Task 1: Study on the
+characteristic of the data and identify the quality issues found
+
+• What makes good quality data?
+• Accuracy – correct data
+• Completeness - all relevant data were recorded
+• Uniqueness – each entry is recoreded only once
+• Consistency – no conflict/ambiguity in the data
+• Timeliness – always up-to-date
+• Dealing with noisy data and data smells
+• Unreliable sensors or data entry
+• Wrong results and computations, crashes
+• Duplicate data
+• Invalid format
+• Out of order data
+• Etc.
+These problems do not exist in this data.
+
+Task 2: Define the goals and a
+suitable measure for the quality issues
+
+Software quality only refers to the quality of software design, design quality, and software and the consistency of the design, consistency quality. Software quality describes the extent to which software components meet specific requirements and the needs and expectations of users or customers.
+
+Software Quality Assurance (SQA) is a planned, systematic activity pattern necessary to provide a high level of confidence in product quality. It actually provides or gives a quality assessment of quality control activities and helps determine the validity of the data or procedures used to determine quality. It typically monitors software processes and methods used in a project to ensure or guarantee and maintain software quality.
+
+Objectives of software quality assurance:
+Quality assurance includes a range of reporting and auditing functions.
+These functions help assess and control the effectiveness and completeness of quality control activities.
+It ensures the management of important data on product quality.
+It also ensures that the software developed meets standard quality assurance and compiles.
+It ensures that the end result or product meets and satisfies user and business needs.
+It simply finds or identifies defects or errors and reduces the impact of those defects.
+
+Software quality assurance measures: Software quality
+There are various measures. As follows:
+Reliability -
+It includes aspects such as availability, accuracy, and recoverability of the system in order to continue operating for a given purpose within a given time period. For example, system recoverability from outage failures is a measure of reliability.
+Performance -
+This means using system response time, recovery time, and startup time to measure the throughput of the system. This is a test that measures the performance of the system under heavy workloads in terms of responsiveness and stability.
+Features -
+It indicates that the system meets the main functional requirements. It simply refers to the required and specified functions of the system.
+Protection -
+Software systems must meet many other requirements or attributes. These requirements include testability, adaptability, maintainability, scalability, and so on. These requirements often augment the capabilities of the supporting software.
+Availability -
+The ability or extent to which a software system can be easily understood and used by a designated user or customer to achieve a specified goal effectively, efficiently, and satisfactorily. It includes aesthetics, consistency, documentation, and responsiveness.
