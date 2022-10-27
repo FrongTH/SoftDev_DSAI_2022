@@ -21,6 +21,8 @@ def compute_metrics(dataset_true, dataset_pred,
                           ) / (classified_metric_pred.precision()+classified_metric_pred.recall()))
     metrics["Disparate impact"] = classified_metric_pred.disparate_impact()
     metrics["Average odds difference"] = classified_metric_pred.average_odds_difference()
+    metrics["Statistical parity difference"] = classified_metric_pred.statistical_parity_difference()
+    metrics["Equal opportunity difference"] = classified_metric_pred.equal_opportunity_difference()
 
     if disp:
         for k in metrics:
